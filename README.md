@@ -2,7 +2,7 @@
 
 免費的台股＋美股持股分析網頁：輸入自己的交易，網頁算出含手續費的損益、資產配置，並依規則給出參考提示（停損、停利、減碼、加碼、續抱）。想要文字分析的人可以填自己的 Claude API 金鑰，按「分析」才會呼叫 AI。
 
-網址：<https://ianliu925-yyuu.github.io/portfolio-analyzer/>
+網址：<https://yugami97.github.io/portfolio-analyzer/>
 
 **僅供參考，非投資建議。**
 
