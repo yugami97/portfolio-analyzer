@@ -1,0 +1,284 @@
+{
+  "schema": 1,
+  "generatedAt": "2026-10-31T01:05:33Z",
+  "tw": {
+    "asOf": "2026-10-30",
+    "nextTradingDay": "2026-11-02",
+    "holidayNote": "",
+    "upcomingHolidays": [],
+    "index": {
+      "taiex": {
+        "date": "2026-10-30",
+        "close": 45211.83,
+        "change": -1156.5,
+        "changePct": -2.49
+      },
+      "tpex": {
+        "date": "2026-10-30",
+        "close": 370.26,
+        "change": -17.11,
+        "changePct": -4.42
+      }
+    }
+  },
+  "us": {
+    "asOf": "2026-10-30",
+    "nextTradingDay": "2026-11-02",
+    "holidayNote": "",
+    "upcomingHolidays": [
+      {
+        "date": "2026-11-26",
+        "name": "感恩節"
+      },
+      {
+        "date": "2026-11-27",
+        "name": "感恩節翌日（提早收盤）",
+        "earlyClose": true
+      }
+    ],
+    "index": {
+      "spx": {
+        "date": "2026-10-30",
+        "close": 7580.07,
+        "change": -140.32,
+        "changePct": -1.82
+      },
+      "ndx": {
+        "date": "2026-10-30",
+        "close": 28384.85,
+        "change": -1017.66,
+        "changePct": -3.46
+      },
+      "sox": {
+        "date": "2026-10-30",
+        "close": 10688.8,
+        "change": -829.4,
+        "changePct": -7.2
+      }
+    }
+  },
+  "fx": {
+    "USDTWD": 32.6187,
+    "date": "2026-10-31",
+    "source": "ExchangeRate-API（open.er-api.com）"
+  },
+  "news": {
+    "tw": [
+      {
+        "title": "星期一慘了！美股費半狂瀉7.2% 台指期夜盤崩跌867點",
+        "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxPZ0had05yVEJfQ0hzZUlrWjkxc1VWb2MwUU5Qc3B1c0Y3b3ZfTmhuOW1pRUtGcUNhN2NPSkozbTJKUElmNmtpUzlsdTlJTkY3N3BHS3Rya1BaMzBLcGJhb2loYXBWaXlJcTBPMHRURnFHaFlJdm9OR1JCbmFoYnhvWXBjUDJFV1kycG5mam1XbEZ0RlMwcURTS1MxdUtXZjJfZzByM0c5Z1Z3SDd3RHVjRFlUOWN6ZVZwZU1XU21rU003a1M5N3BkczZyaEotQmVyRVBnYUQ0MUJWX1hTM0JjZmNYSGFmTDAtZlpYLWFzX2lfOFV2dFFGR2FhZ0kzbXlNcEgzeVFYMEtJV1ViUXRhYnlKOTJUNkFnWmlWTnNKYU5WUjJ2dG5ZX1ZzNFM3dlVGR3A3ZldXU0JQcUVVYk84?oc=5",
+        "source": "Yahoo股市",
+        "pubDate": "2026-10-30T22:38:12Z"
+      },
+      {
+        "title": "【1030台股盤後】外資狂倒約略1125億創史上第七大！重點觀察融資餘額與美國期中選舉，弱勢盤鎖定投本比【精測】、【富世達】、【佳世達】｜豐雲學堂2026 年 10 月",
+        "link": "https://news.google.com/rss/articles/CBMi3AVBVV95cUxOX1IwVE5Zam1Sa0lUVFB1akE5eWlVRG9GcmNXamhNVllBVTdHcDRUaTNMWlplaVFOU1hBREh3WGg2Rk82dHRjZTc1MGVTTnJVTFRZZEhCR1NKQmdiQ2VjTkFsbEd4QTB2Z0lQazV5WDJHTUdSQVNwN1BORE5TZjNOcmNmUTN2WXNWNXNWTURIbHdta3lpWVRlM21TM3Z4ajdQdF9KeUhNYTlELXg1Sm9GcmxtckRRYXNiSDluZDV6R2ZPcGxmUnRYOS1kYTJ3SVQtbldfREktLXNHeWYzZGRTaU5KQmliY3J0THBFVVc3Y292VHhWVEJxdHZkLUFkb3dpSGFnLWQtOGQ1SW8tRmJiYVdBOVNzdksxbjFoY044RERDSG41ODdpcEM2NnFILUhueF9HUU5uMC1UMUViS0Jud0kzVThNZGlkSk9LY2NDUFQ1SlRodnJXblhpOUk0ZE9mSEdLMkg2dmNfR25tcDYxNVBzNlZndzh6YjRBQnhGdnhJTkh0YXZ3WUtJenRTV2dvY0gyUHdnTmJ5LXhHUTRTMzlpVDJKTUtyOFJ6OXUyTE82eUl1MzltTnhZR1BwUDZZbnd6UV81Tll3T1Ytc3JhOGhnckVHTFFsMnRKV2lwUUEzTEs2NXpVS1ktMkstOWFQVDgyRGliV3Fzc3RYazBFQzFPQkZ4eVRMWnh5X1lHSXU0dUtqeXFRaFBZRXZuUV91cmEwQ2ZUV3dCZXVVckVIYXhOamlVeFpic3lWa0RyTzV6Rnk0d1A4VnpjdDNGdFJVSUlZU1BOVlBCMkk1VGhEc09aMjJOMjUxN3VzWEpRV3IwNUdUNzZCU3V0Q2x1VnNXWGtLQU1HS2NZWF95T1RtaUcxMGNkU2R2RVF6WXhyQml6c21nYjkwUHp2dzcyRVRyRDMtWDB5YUNWbVBFSTdyOWdBcUdMWHc3aVJ1cXNuRGtIVV9fM0dJV3F6RVM?oc=5",
+        "source": "永豐金證券",
+        "pubDate": "2026-10-30T09:53:48Z"
+      },
+      {
+        "title": "【美股科技股崩盤！台指期夜盤跌破4.5萬大關 台股狂瀉1156點】 （#起啵）",
+        "link": "https://news.google.com/rss/articles/CBMikgNBVV95cUxNQW96Y1g2SUlKU0t6d2tDRC1STFphbXlYV3YtUXVBci1MakhWTC1xOWNVSHh4Yy10TXpVWkpBa2NPMmFuR09kVUxXR2FuRUpDaHpKSGFMMWpNcjFuSGZhTG9LVFF1TTNvVmZvNTJGYm93VUVMeHRsX05idGhVa3d1ZkdQNElTTHJZVU9WQU1HU1J5eHlkRlU5dkt0SHdnM1BGNGtzV2NLcXF1UnZmQlFZVTBTZVJSRTVzTi1LNU9aSWhtOGQxSUx5bUgzcl93Q19kMG4zNFRONHhiQTZ3NVpEVUdXem8xRWpaLUJWTV95YzdnWjhYaVIydE5Tc2oyaU9NTjNIX0NiUEYxdExIVkxfVzlPU3dpcDJYRVY1SG5WY1ZxaDJ2UFpFYk9mTEJSelNNbkdlZUdEVERIU29ydFJTUWZHOUdMcVA0MnQwdE95c2N2czREYkJxMTFtX3gyd3NHZlNCV1pqQTFxUGMyVW15QTdDdFhCdkcwQTVUTTBlYW5PUGJyWk93SlZmRDNrejRJNnc?oc=5",
+        "source": "Facebook",
+        "pubDate": "2026-10-30T20:12:46Z"
+      },
+      {
+        "title": "美股科技股崩盤！台指期夜盤跌破4.5萬大關 台股狂瀉1156點",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBKa3Z2d1JPcUtnczhWa0VZM2hDVmxNaXFJbWE2SDJBbE9nWGw0UjF6NGwyT0hiTnhlcDZILTAxTjBFbG5remZjdXM0WW1VYmNtbHfSAVBBVV95cUxPMTNuVXRhM1NkcnQ4NWc2bEp1czNfVFpQR2dBeUhxZzFUd0RSZXMzVkhlOHVKTlJCcHE0dGhlNVFzV0F1a25JLUJUY0VIQmJEZg?oc=5",
+        "source": "ETtoday財經雲",
+        "pubDate": "2026-10-30T14:27:00Z"
+      },
+      {
+        "title": "台股殺到血流成河！分析師：下周若無法迅速站回季線、整理時間恐加長",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFByanFTX2hETVFxYnVRZ2Y4Wkp5WGhFcXlSWjgwa1owZGpOd1VHUzUtMUtCXzlvVEdVQ2VPaGl4VUptR3ZtV3N3dnFxRV9QMjZp0gFWQVVfeXFMTmFTTFZ4eFBYR0RCUXhmX0lmNndhZDhXOFRaUWpVY2stcFpveE96ZXNZMUI3X1dUUnRMWVdRaW54aHVObFAwTjAydzA1MzF1UE1rNDdGemc?oc=5",
+        "source": "UDN",
+        "pubDate": "2026-10-30T04:57:18Z"
+      },
+      {
+        "title": "半年線也破了！股民崩潰問「台股到底在跌什麼」 網反喊：還沒上車快上車",
+        "link": "https://news.google.com/rss/articles/CBMivANBVV95cUxOUUh2T0Uwcl9hSjlfdlBObjBLYnZ0M3Bkc3ZQSjlxLUVEWndkMjZjSU9HRlFZdnJNSjV6WklGRXVHNjlPXzk2SHh5UHc0WV9lMTBQdXFUWTJkLVVfNHpLdTNablh5dVhWVk05eUl3bWZCQmJyLVlJWjdlSXBTZnN1Vng3REdFNnJOM2V0ZmM2UE1jV04tb3U1YUZnSWJ5SThNZy1WSnFqVkFhUFF1czg1M3hPVmNVNFlaTjAzcUUtVE1VaE02M25JeTJaTl9OUVFyV1hSZXV2Sk9Xdkx4TE51R01VWUhJbldsMHNqOFlLT2RaYmpFSUZNd3JQVFVsVTBfMXRYZ1JmUWhFQ2FOSkZpX2VUdTRkTUdVRkxNVGRoQWFWVHUxSURHNFIxT3B0MEo1SVpUTThiVUE1NUMzTmNfQXJLUHdvY3o2Y29FWGQyWlBWVmNVbDlic3lvdTZUNTdvOVJ2VVJDZnJwOUlNV1BuaURuZDBBbWJBRDhJVnNHei1hd2UxZHF0eUdtQS13cTRoX0JFU25HUTNkOE9lT0ZyUDk0RURXVjN3QUZ2Qmx4VW9VWmYyOVpuaGRVbG4?oc=5",
+        "source": "Yahoo股市",
+        "pubDate": "2026-10-30T10:45:00Z"
+      },
+      {
+        "title": "台股暴跌兇手？ 外資放空超標 金管會最新回應出爐",
+        "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPU2U0WG9MTldlQ1hCY21zUm5LZXB5am11OFlidTVGOUdxeWVzX2RhelcxaDBEY0h6Wll2RzVMcFk1dzM1dlcwQkpBX0tRLTlad2gwWWpuRmZBcjAwcTM1VUhCN1V3OEJfYVdEZGxGYzhKZ3REWlZ1bnFOeTlIZUllSGIxU3BnN3l4WDB1WmREd0F5RmNIeXpqbDdwd29HTVlfTm1qMUVfWTBObEFycFAyWUdsRjVxMFZDLXotSFVKSXhGOGZSaFdBZ3kzNlZoOHFqSGQxREE2WXBTSU5wRUpFOW9haEZvZmI0VVdlc0pIbjYyRG1GNTJQaS1yNFpTYjZ5ZG9obHdpVnpYQm1ZR0g4QVRRazlaS0FKcmVGZzcyNzQxMGRzeVYzclh6VjhXNjBjUHlMLWxoR05ReDR5UWZVVkVuQjhuaGpodXpyUllSWS1HaDVYSHFPU1hZczdoUm5MS3p2Y1Bn?oc=5",
+        "source": "Yahoo股市",
+        "pubDate": "2026-10-30T10:02:46Z"
+      },
+      {
+        "title": "史上最慘10月！台股單月狂殺2747點 分析師：市場情緒轉正需要時間",
+        "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxQTEpoSlFyZmVJWmkzSXR0YUVtcGM0Q2dwTEpZYXY0Y3JUY25zbFdkVGZCbDJxdjZ4dWVsMkxhN1hkUFdyWFBFczJ5VEE0b0VmeDhheHVJb0Q3UWJzQlJmRWFTand2T2drMFJTeUpncHhPODh3SkNLUHNKM1FxUTNldU8tbHVFaWgxOUxRdUZLQXdTSktEdTAzb1FhZXNFVEtBSF9US0x4VE4yTVB2MVVRODdzN29vQW04MjdBVG5XdW5XZFI3eUJlYkE4TjducWkyOG9vQlVSNVA0VUc2dDVtMnVPS3lJWGdwODlaOUM0c2FocWhhWmhTWFFEQ1ItZnRLM1R1ZXNZZWI5eXVKSFFyYlp5WUtuZHREV1h6d0JuYjZIdDh0RzZuZTRXemp4Nk94WVpTUEJFUlJYZk9fYkQ1UUtZMzVzSUszMk5Wd1B4cXhScGp6ekx1bExNblN1M3didHJiZkN3NUFVb0RDWTRHZm1NSnJaZTVFaTh3NWlsMHFsdXdGWlJsZmpqSUQweGxlYzRwYW1tQ1VPb0c2dVhXRUlaRHVqSi1o?oc=5",
+        "source": "Yahoo股市",
+        "pubDate": "2026-10-30T05:51:13Z"
+      },
+      {
+        "title": "美股崩盤拖累! 台股盤中狂瀉1642點 失守半年線",
+        "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQaEx2UmRvb3o2anJzWW90Nm1GM0NvS0cteDB0NWlWNFVsQnV1OEdTSTAwem9aOGtXbUZuYUNjSXAzUHlEZVpMOXkybnpvTWF1SEJPU0lRQTFFcG9Lakl3eEtwdEZ0QTFtVExsUGcyT0w2b3J3aUxhNmZ0UEEwbXZKSjNkYXNqcm5WZElJWFliRk9Rc21UcjVtQnFYLTJVblpxMUQzR0F2aGJ2MWduUGZ5TG1ld2ktY0R3QjJCeDN5NzlUX011RC1nMncwZ0MwN3NoUWNvbjc5dXI1NnV6MFJVMDhvcC1EVlNzYU1WVDI4eEVJMVQ3RVA5eXhCMFE4dXBLcGRGMlpuYTJnQkN2ei1NblJMeDZhNXFod2JSOTBBMlpxazNSdjdiVjVHYjJDZTZqV3FXZEFVRGZvX0k?oc=5",
+        "source": "Yahoo股市",
+        "pubDate": "2026-10-30T14:38:40Z"
+      },
+      {
+        "title": "【Follow法人】外資賣超1124億元「史上第七大」！10月瘋砍台股近1兆元...投顧董座：破底觸發程式交易",
+        "link": "https://news.google.com/rss/articles/CBMiwARBVV95cUxQSG5tdlhVak1kbFdiUDUtSTFvbmF1U2hEeTlSa2hVakZpbTduRnFlSGM0U3IycjFJVXZTbThFT0NrTndGLTl2ME1FcS1yemcyX2pNXy01dndVWUx4SjBwS3FycGZaUEd1bzlQdXJjTXpBYXNRV2RIZTFjQnNrV05ZbUhTenNmeTVfSlY5anF0RkF4akZaN3g4UmZKQVdwOFZ6UDYwdk9qSmlqVHBMaHNfLUZmOUZ6YjZlNkxPbGp3c1BMTEJucE1yTnBab3lDeG5pNmJSdzhnV001R25ycDlmWjlsd0ZQdkxkUUo5dGJWbXRjRG44dmRDTEtGbjlyMGp5dVBVQ2lLRVVQeVZMTHNtVUlVQzl5b3NfdER4eWJYTFJYNkw4OWhWQ2Z1YS1EWlBEeENuY09GWDRleUE1a3AtZXVtaDZsSDlwclo3eXdrMnRqVjJ5UEtoV3dkYzFVNEhtU014SWlwSkw0VnBmZk9pYm1iaW9mQUItSElpdmU2RldUMmtnVF9JNWMyUm1Lay0tcHJkdXBINXNvNS1SRXo2VXhwUFZyY3pqUXFZQ3k5TUlOUEc3S1FTLWtqUmdvcW9zZ3V0Y0NISUpwdnJCOFBVZjB4QXFtblZwNGZHZHpGRDREMmxoTHBOZEt6OGZ4UGlxZ241V3dkWjBuSl9TSEtVLVVKb0NUZUR5a0Vycmg4R2lSU1h1MXZ0bm8yX01RVzNYSTlGVUhzdTFkd3RRLVNqa3ZTa2xGSm1TaFFwS2xGWkk?oc=5",
+        "source": "Yahoo股市",
+        "pubDate": "2026-10-30T07:50:07Z"
+      },
+      {
+        "title": "台股摜破半年線、退守4萬5！「被動元件大廠」重摔跌停、自營商急轉賣方 再出清群創1944張",
+        "link": "https://news.google.com/rss/articles/CBMipwNBVV95cUxPdEZPRG1odkh4ZlFvanBNZU01YUtnRFNBbTdCT0kxdHE2RS1ncmRKX1NFMGFLNEo0LWpZek9VUWoxS0F4QVBsbGxPQ0pPb2l0QkNyUG1aQU1KRkRxejBJTHNiaEhuTjVPYXlFZHlEQlNNeThyXzFESWQ2SGllM2dRWGNIcU1yNmhIYm90WGFFUlVjbE5zXzQxYW9YSjV1UU9mbDlFaGhFRjFIVWNwblNzMFhqOVFuSFJqQlQyNEFqWE9tT2hsLTN6aF9URGVTZUFIUUxZVXg1RTlxTmREQ0JGWUktY0loekN5clNaakVRX2JhanZuM2lSd3ZrRzZPQ3laWkExakxGWV9rRi10c1BsSVcxM25KdFJTcGx2RUJvcFZlVEtqM3AxQWVqTFVYM0d6bW44SGZFLXlXNUR1VHNBNHlhOU1YWU1JYXhwS2VDdnhtVlZQUHBidDBqb0V5Z3J1bTNLalZvUnhuZVRWTDdfcXlTU3pNaVBOYWpmMWZ6MUNvTUVxWVR5bU9tcWdaSTBSbWtGMEZhcGZSQkpSR1BNelBXVjFObFE?oc=5",
+        "source": "Yahoo股市",
+        "pubDate": "2026-10-31T00:28:05Z"
+      },
+      {
+        "title": "台股血洗千點失守4.6萬點！10檔ETF慘淪提款機",
+        "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOaThzMDBfcWJnWmJwY1U1b1dVUGlOV0JBY0JWR3VkVUpNQ25ibkxNV1VaNHNZWmpVaml5clFGVThESkFITUpLNWNwa01FbjhWN2I1M1FDN0RlMU5OZlV0VkJxQ05MU3JtVlhpTXgtUjRwSEZaTlZHdXQxS2xZdUtjUlduWHNXanMxc3IxeEc1c3NwY0g3Wm5pdFE2SXpwQ1dpLUwtaGNRX0U5ZlVLekxJb1g0QXJ1enliTWxkMWxJcTJPbHdIR2tlZW04LXFLUlVURkRacExmM1AyTUFsZ2lkZ010cTNNYTJzaUlvbGEtUXJwMmRVRWFzczlUNzJSZ2ZMZFNCRC1UN2ZETE5XcTNhVGU2bHNuZUFZSUttRGFIWGlWaC1iZ29z?oc=5",
+        "source": "Yahoo股市",
+        "pubDate": "2026-10-30T07:31:25Z"
+      }
+    ],
+    "us": [
+      {
+        "title": "Tech Stock Selloff Deepens on Earnings, Oil Rises: Markets Wrap",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNLWZRMVRrOG1xQ1NBUE55MXNIWTFyTFBfUDBwVnUwbDRHOHNibGNUazhpRVVJamItaGc5UndhUngwMTFOLUE1M3dscmdtSDBvWUJrNmoyWnFGZ2tBcm9VZjZ5MXcyQXFuSDZmWmE4WVlheXZBeTVTci1CXzFQMUxnMkpFRXBVTjh0SlI0N0hobUZzOHh3?oc=5",
+        "source": "Bloomberg.com",
+        "pubDate": "2026-10-30T21:40:03Z"
+      },
+      {
+        "title": "Tech Stocks See Worst Day Since June, Pressuring Broader Market",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1lZFpybG4tcVZURUg4djdncV81ck9kdS12V2Q5bW1VN0RyOEV2VkhQUVluLWd4ZkFiSmh6RzJuWFNZT2VOYm5CZ0pNRHZrQUhNNzlMdHBhZE9qUlY1bmJRVGxMOWRoLTRpaGpTelJwYzI1Q1E5Z3c3eUxhUzk?oc=5",
+        "source": "The New York Times",
+        "pubDate": "2026-10-30T20:40:47Z"
+      },
+      {
+        "title": "US tech stocks see sharp falls as AI spending nears $1tn",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03MGFhZ3ltOEs3NFpDUTRDQ2ZPbmxPcXFvbWtkSm9kS0pnOW82MjlDbTY4dnlGNkYwSkUxMVJPZU1ZeGVqUFk3YkdZeTUxQzhLemlBbldWVld5NU0?oc=5",
+        "source": "BBC",
+        "pubDate": "2026-10-30T20:34:46Z"
+      },
+      {
+        "title": "Wall Street closes sharply lower as AI cash burn fears spark tech selloff",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPblVtZktXRjdPbHJBWDM4WWJsV2RyMlhnOVFYRTZPc01udjZNZTVjeHdIN1dVY0w1M1NHbHpxNjV6Vm9jQ3FOUjBIaElyZEdSWWxycmNZdnJwNnBfdTJDc1FBMWVJZ19vR0s3Y1h2Uml2LThWc2NzQ2sxN3NnVzFEeGhvNnpPSElHSFRIQnJreHpCR2c3dnRQbEVYTDlJVjhzVVk3b1gxaFczMFhkb2NDSw?oc=5",
+        "source": "Reuters",
+        "pubDate": "2026-10-30T20:38:32Z"
+      },
+      {
+        "title": "Nasdaq 100 plunges more than 3% to cap its worst month since 2025 after dismal tech earnings",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONzk3SWo0SUFZeUo4blMxSHYzTzhXbXVHNEQ2WDg1VmIwOGdZSUZkQnlUd3c1d3p3d1ZzY1NKWkJGeThlVXpEYzVSU2RjMUhtT1RPNGtjS3gxelVIemN5OUVIOVVhMHh6Q3dNaE8wbVhtejRqMkltcEpDbFBnQjBwLTJmQUN5QVl3MDdKbnBWNWFScFFw?oc=5",
+        "source": "Business Insider",
+        "pubDate": "2026-10-30T21:06:00Z"
+      },
+      {
+        "title": "Tech stocks wipe out $1 trillion in value as concerns deepen about the AI boom",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQa3d4RHVLejNUQk5KamNvZkpmVm9BT1JQUS0xQXNxaHFVVHYwYTJ4TnRIQ0I4RkUwbmR2aWQ4VXRzaDAwdmI4Q3Q4S1lFZlhqNTBxY1p6WDVGdkFxQjdPa05BYWx4TGdsempHY3YzWllDRDRxN2Z0T2w5M1FtVGcydzNaOUdRWWgzYTdfVFJQTDJZU25NOUE?oc=5",
+        "source": "NBC News",
+        "pubDate": "2026-10-30T20:32:30Z"
+      },
+      {
+        "title": "Wall St Week Ahead: Midterm US elections, earnings, jobs data loom for AI-wary stock market",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMDJJM0JmU1Nreks0a1ViM1lWX2VRX043dHpXd2xjR091TTNJd1UyZjZ4a2kwMURZLXkwLTBHSWZaMG41VU5nbTE0VW1iNDdCbHNCTjc5RG5BZUx3QzM2d0IzUmJkWXB3VkNsMW5EMDVFUlQ1NmhvdDBVTy05RkpxaDZ4QW9xRExsY2QwVzFpMTJmRG52bW0tSWgwbkdCTlJlaFFnU2tUcEEyQml0cV9VRktaVTh4VDVFNkIwVjkyWmN6dFpTNE9FZkx4dw?oc=5",
+        "source": "Reuters",
+        "pubDate": "2026-10-30T21:36:57Z"
+      },
+      {
+        "title": "Why the Markets Don’t Care About the Midterms",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVUdlSXdpbS1qdldrbm9yaTk1N0ZTZm1hemx1aWJJNFg1SWFlOW1QNW9zQ3Rwa2M5NlRVbjY2WGxjUjZLbXdMSkV5RWNlOXpJUW9qQjNsOUJScFphb0R4M0VqNUFXTElQQW9xSmtIdU1sMExSak9DcGtMdVpEY0ZVYTB3?oc=5",
+        "source": "The New York Times",
+        "pubDate": "2026-10-30T20:36:05Z"
+      },
+      {
+        "title": "Watch live: Stock market reacts amid concerns about artificial intelligence spending",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdTM3TmZacWdPWmppcV9qZnFRV00yaGpnNmk1NFhKczFQMk5oX1FPa1NWRnlFcW5pVURlVGxRaDRheWR1RUZ3bnVFOEk4d0JLRDR1eF95ZWZMd1Uya2UtQmdBNWJRdW92emtYTFZ2VmZpX1VkMXczdFQ3SmNWMEFmN0YtYTFYcnBKN2tnSExQMXR6ZHVwbzcxeDg2UDZqLUVGWEZvVHRDc21LcG9SanJOQUF4Rm5ITHFVYjdNVDRLNW9XTXpP?oc=5",
+        "source": "NBC News",
+        "pubDate": "2026-10-30T13:57:58Z"
+      },
+      {
+        "title": "Stock market rocked as investors dump tech shares; Nasdaq suffers worst day since June",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVll4LVFGMjA2Y0lxRFBqS2g3T19vQmtzeG1STUp3cWdYZTJVNTRxeHQ1R21JTzBRcFRhNHFha2pEMmI2Z0ozVnpIYkY4RkxaamlzWGp5MlhLZkVQYjJnNkw4VjBNTnJ0Rk5VcVpKS3JqeVA3T2FEZnIwUU10NTdON1AxNGVZRGwxVjJLOXNXVmswM3lhNk1xdm8xT0h0aVBmc1FCVWs1c19nQV9rZEtGbXZ1dkJKRl83QjI5LU03WER0TlZsdjRB?oc=5",
+        "source": "CNBC",
+        "pubDate": "2026-10-30T20:54:23Z"
+      },
+      {
+        "title": "Jim Cramer's top 10 things to watch in the stock market Friday",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbHZ5ZG5oMGJXeXFvNEY3WTUzQm5WR2xjcWhQcEtsQkpVdWVuX0ZSTGdlOUpnc2FGY2tSTFNKZWlGaVFJRDVNMkotM2tOc29IczQ3WnkzSF85OEIya2pLTy1wZ3NURnVoYUVuMHQxNjZMYUZjd2JXLWFUMHdva1ZwWm5FMjl3X09LUzFoV1hpd1RkNHU0MjB5M3dNS3RDRC1SZ2duOE4tTTlXZXFpaV84MEtR?oc=5",
+        "source": "CNBC",
+        "pubDate": "2026-10-30T12:38:01Z"
+      },
+      {
+        "title": "Alphabet loses $475 billion in market value, the biggest drop in its history",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOb0pfRGxYakdFTWU5eXlYYTd5cGVuVmpzMDFiMDBuX2ZOQVB5aFV1Qmk1dEhXQWwtSVNtU2ZOSTNfVDMxS2NoMUpTbmJ3a0hYOGtvOGJldXlkU3k2N3djaVhDMUNGN0g5Q1J2SzRXMkhXbzI3MUxqd2t5SEszX0JEZWZPUmRSd3VZQmYyZzZZeDNvY0hKaExMcnNTbHhzeTItckpZaEJmbWxodHVla2FKTTN4cmdFY2VjWk96cjdwLUtjX3FMRmZwLVp3SHJiX2xNajBR?oc=5",
+        "source": "Yahoo Finance",
+        "pubDate": "2026-10-30T16:17:34Z"
+      }
+    ]
+  },
+  "industryPe": {
+    "TW:光電業": 25.72,
+    "TW:其他": 14.38,
+    "TW:其他電子業": 23.14,
+    "TW:化學工業": 19.18,
+    "TW:半導體業": 28.26,
+    "TW:塑膠工業": 16.73,
+    "TW:居家生活": 12.69,
+    "TW:建材營造": 10.5,
+    "TW:數位雲端": 19.19,
+    "TW:文化創意業": 18.72,
+    "TW:橡膠工業": 14.64,
+    "TW:水泥工業": 13.31,
+    "TW:汽車工業": 15.44,
+    "TW:油電燃氣業": 17.07,
+    "TW:玻璃陶瓷": 48.31,
+    "TW:生技醫療業": 15.89,
+    "TW:紡織纖維": 14.07,
+    "TW:綠能環保": 17.26,
+    "TW:航運業": 11.6,
+    "TW:觀光餐旅": 14.51,
+    "TW:貿易百貨": 16.2,
+    "TW:資訊服務業": 16.03,
+    "TW:農業科技": 18.06,
+    "TW:通信網路業": 25.24,
+    "TW:造紙工業": 17,
+    "TW:運動休閒": 12.07,
+    "TW:金融保險業": 13.68,
+    "TW:金融業": 5.04,
+    "TW:鋼鐵工業": 13.77,
+    "TW:電器電纜": 13.03,
+    "TW:電子通路業": 12.24,
+    "TW:電子零組件業": 28.05,
+    "TW:電機機械": 19.57,
+    "TW:電腦及週邊設備業": 17.11,
+    "TW:食品工業": 16.43
+  },
+  "events": [
+    {
+      "date": "2026-11-10",
+      "title": "10 月營收公布期限（台股）"
+    },
+    {
+      "date": "2026-11-14",
+      "title": "第 3 季財報公布期限（台股）"
+    },
+    {
+      "date": "2026-11-26",
+      "title": "感恩節休市（美股）"
+    },
+    {
+      "date": "2026-11-27",
+      "title": "感恩節翌日（提早收盤）（美股）"
+    }
+  ],
+  "status": {
+    "twse_quotes": "ok",
+    "tpex_quotes": "ok",
+    "t86": "ok",
+    "margin": "ok",
+    "revenue": "ok",
+    "eps": "ok",
+    "pe": "ok",
+    "us_quotes": "ok",
+    "index": "ok",
+    "history": "ok",
+    "fx": "ok",
+    "news": "ok"
+  }
+}
